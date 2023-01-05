@@ -484,7 +484,7 @@ section {
 
 .card .back-face .icons i {
     cursor: pointer;
-    color: #d74039;
+    color: #149ddd;
     font-size: 20px;
     width: 40px;
     height: 40px;
@@ -503,7 +503,7 @@ section {
 }
 
 .card .back-face .icons i:hover{
-    background-color:#d74039 ;
+    background-color:#149ddd ;
     color: #ffffff;
 }
 
