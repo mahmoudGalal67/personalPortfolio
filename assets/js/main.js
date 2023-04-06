@@ -310,3 +310,10 @@ document.getElementById("message").addEventListener("blur", (e) => {
 });
 
 // Validation
+
+// Age
+
+const myAge = document.querySelector(".myAge");
+const currentAge =
+  new Date().getFullYear() - new Date("1997-1-1").getFullYear();
+myAge.innerHTML = currentAge;
